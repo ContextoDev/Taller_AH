@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "ContextoDev.TallerHexagonal.Warehose.Api.Controllers.ProveedorController",
+    "Method": "Post",
+    "RelativePath": "Proveedor/CrearProveedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proveedorDto",
+        "Type": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.ProveedorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.ProveedorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ContextoDev.TallerHexagonal.Warehose.Api.Controllers.ProveedorController",
+    "Method": "Get",
+    "RelativePath": "Proveedor/ObtenerProveedor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContextoDev.TallerHexagonal.Warehose.Api.Controllers.ProveedorController",
+    "Method": "Get",
+    "RelativePath": "Proveedor/ObtenerProveedores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.ProveedorDto, ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

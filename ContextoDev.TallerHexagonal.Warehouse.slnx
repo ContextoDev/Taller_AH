@@ -1,0 +1,37 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Api/ContextoDev.TallerHexagonal.Warehouse.Api.csproj" />
+  </Folder>
+  <Folder Name="/Aplicacion/" />
+  <Folder Name="/Aplicacion/Dto/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj" Id="1bac2167-6daa-440a-846e-dcb0f986807a" />
+  </Folder>
+  <Folder Name="/Aplicacion/Servicio/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.ServicioColombia/ContextoDev.TallerHexagonal.Warehouse.ServicioColombia.csproj" Id="55874474-edee-43fe-aa85-3d889131ac40" />
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador/ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador.csproj" Id="1c200282-de77-440c-950c-9b4f88010ac9" />
+  </Folder>
+  <Folder Name="/Aplicacion/ServicioContrato/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.ServicioContrato/ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.csproj" Id="bc4d5a6b-f6db-45e7-aff4-9804fe97456f" />
+  </Folder>
+  <Folder Name="/Dominio/" />
+  <Folder Name="/Dominio/Agregados/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Agregados/ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj" />
+  </Folder>
+  <Folder Name="/Dominio/ObjetosValor/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj" />
+  </Folder>
+  <Folder Name="/Dominio/RepositorioContrato/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj" Id="d12500c7-8f21-4f1f-b6c4-95e022365748" />
+  </Folder>
+  <Folder Name="/Infraestructura/" />
+  <Folder Name="/Infraestructura/Configuracion/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.csproj" Id="82479212-549e-4b4c-894e-27bdd53a1f91" />
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestrucvtura.Sqlite/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Sqlite.csproj" Id="a57dd234-574a-4585-976b-29cfd4dde926" />
+  </Folder>
+  <Folder Name="/Infraestructura/Modelo/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj" Id="69dc349a-98ca-46fc-9806-faa20873a9b0" />
+  </Folder>
+  <Folder Name="/Infraestructura/Repositorio/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj" Id="dbe73509-523a-4bce-9e32-86587ead42a2" />
+  </Folder>
+</Solution>

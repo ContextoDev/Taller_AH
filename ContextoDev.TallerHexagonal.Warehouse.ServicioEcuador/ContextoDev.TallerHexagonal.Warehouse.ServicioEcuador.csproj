@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Agregados\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato\ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.csproj" />
+  </ItemGroup>
+
+</Project>

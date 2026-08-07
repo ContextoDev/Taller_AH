@@ -1,0 +1,17 @@
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.deps.json
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.AssemblyInfoInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.AssemblyInfo.cs
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.csproj.CoreCompileInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato.csproj.AssemblyReference.cache
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ServicioContrato\obj\Debug\net10.0\Contexto.6BB9C764.Up2Date

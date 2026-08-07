@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\ContextoDev.TallerHexagonal.Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CB4541-4B15-3AB7-14DF-5F5614F01753}|ContextoDev.TallerHexagonal.Warehouse.Api\\ContextoDev.TallerHexagonal.Warehouse.Api.csproj|d:\\arquitectura\\taller\\taller_hex\\contextodev.tallerhexagonal.warehouse\\contextodev.tallerhexagonal.warehouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CB4541-4B15-3AB7-14DF-5F5614F01753}|ContextoDev.TallerHexagonal.Warehouse.Api\\ContextoDev.TallerHexagonal.Warehouse.Api.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DC349A-98CA-46FC-9806-FAA20873A9B0}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj|d:\\arquitectura\\taller\\taller_hex\\contextodev.tallerhexagonal.warehouse\\contextodev.tallerhexagonal.warehouse.infraestructura.modelo\\modelowarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DC349A-98CA-46FC-9806-FAA20873A9B0}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.modelo\\modelowarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModeloWarehouse.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\ContextoDev.TallerHexagonal.Warehouse\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\ContextoDev.TallerHexagonal.Warehouse\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T04:12:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\ContextoDev.TallerHexagonal.Warehouse\\ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\ContextoDev.TallerHexagonal.Warehouse\\ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T04:12:35.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

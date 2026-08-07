@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/1.0.0": {
+        "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados": "1.0.0"
+        },
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.dll": {}
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
+        "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0"
+        },
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

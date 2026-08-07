@@ -1,0 +1,11 @@
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.deps.json
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.AssemblyInfoInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.AssemblyInfo.cs
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj.CoreCompileInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll

@@ -1,0 +1,6 @@
+@ContextoDev.TallerHexagonal.Warehose.Api_HostAddress = http://localhost:5167
+
+GET {{ContextoDev.TallerHexagonal.Warehose.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
