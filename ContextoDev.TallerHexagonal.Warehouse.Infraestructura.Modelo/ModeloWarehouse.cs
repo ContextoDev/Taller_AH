@@ -7,9 +7,9 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo
     public class ModeloWareHouse : DbContext
     {
         public DbSet<Proveedor> Proveedores { get; set; }
-        //public DbSet<Producto> Producto { get; set; }
-        //public DbSet<OrdenCompra> OrdenCompra { get; set; }
-        //public DbSet<OrdenCompraDetalle> OrdenCompraDetalle { get; set; }
+        public DbSet<Producto> Producto { get; set; }
+        public DbSet<OrdenCompra> OrdenCompra { get; set; }
+        public DbSet<OrdenCompraDetalle> OrdenCompraDetalle { get; set; }
 
 
         IEntityTypeConfiguration<Proveedor> _proveedorConfiguration;

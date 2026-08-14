@@ -15,34 +15,36 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "10.0.10");
+            modelBuilder
+                .HasAnnotation("ProductVersion", "10.0.11")
+                .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             modelBuilder.Entity("ContextoDev.TallerHexagonal.Warehouse.Agregados.OrdenCompra", b =>
                 {
                     b.Property<Guid>("Id")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("char(36)");
 
                     b.Property<string>("Codigo")
                         .IsRequired()
                         .HasMaxLength(20)
-                        .HasColumnType("TEXT")
+                        .HasColumnType("varchar(20)")
                         .HasColumnName("codigo");
 
                     b.Property<DateTime>("Fecha")
-                        .HasColumnType("TEXT")
+                        .HasColumnType("datetime(6)")
                         .HasColumnName("fecha");
 
                     b.Property<DateTime>("FechaCreacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<DateTime>("FechaEntrega")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<DateTime>("FechaModificacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<decimal>("Total")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 
@@ -52,43 +54,33 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
             modelBuilder.Entity("ContextoDev.TallerHexagonal.Warehouse.Agregados.OrdenCompraDetalle", b =>
                 {
                     b.Property<Guid>("Id")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("char(36)");
 
                     b.Property<int>("Cantidad")
-                        .HasColumnType("INTEGER")
+                        .HasColumnType("int")
                         .HasColumnName("cantidad");
 
                     b.Property<DateTime>("FechaCreacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<DateTime>("FechaModificacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<Guid>("OrdenCompraId")
-                        .HasColumnType("TEXT");
-
-                    b.Property<Guid>("OrdenCompraId1")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("char(36)");
 
                     b.Property<Guid>("ProductoId")
-                        .HasColumnType("TEXT");
-
-                    b.Property<Guid>("ProductoId1")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("char(36)");
 
                     b.Property<decimal>("Subtotal")
-                        .HasColumnType("TEXT")
+                        .HasColumnType("decimal(18,2)")
                         .HasColumnName("subtotal");
 
                     b.HasKey("Id");
 
                     b.HasIndex("OrdenCompraId");
 
-                    b.HasIndex("OrdenCompraId1");
-
                     b.HasIndex("ProductoId");
-
-                    b.HasIndex("ProductoId1");
 
                     b.ToTable("ordenCompraDetalle", (string)null);
                 });
@@ -96,33 +88,33 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
             modelBuilder.Entity("ContextoDev.TallerHexagonal.Warehouse.Agregados.Producto", b =>
                 {
                     b.Property<Guid>("Id")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("char(36)");
 
                     b.Property<string>("Codigo")
                         .IsRequired()
                         .HasMaxLength(50)
-                        .HasColumnType("TEXT")
+                        .HasColumnType("varchar(50)")
                         .HasColumnName("codigo");
 
                     b.Property<string>("Descripcion")
                         .HasMaxLength(500)
-                        .HasColumnType("TEXT")
+                        .HasColumnType("varchar(500)")
                         .HasColumnName("descripcion");
 
                     b.Property<DateTime>("FechaCreacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<DateTime>("FechaModificacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("Tipo")
                         .IsRequired()
                         .HasMaxLength(50)
-                        .HasColumnType("TEXT")
+                        .HasColumnType("varchar(50)")
                         .HasColumnName("tipo");
 
                     b.Property<decimal>("Valor")
-                        .HasColumnType("TEXT")
+                        .HasColumnType("decimal(18,2)")
                         .HasColumnName("valor");
 
                     b.HasKey("Id");
@@ -133,24 +125,24 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
             modelBuilder.Entity("ContextoDev.TallerHexagonal.Warehouse.Agregados.Proveedor", b =>
                 {
                     b.Property<Guid>("Id")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("char(36)");
 
                     b.Property<DateTime>("FechaCreacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<DateTime>("FechaModificacion")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasMaxLength(200)
-                        .HasColumnType("TEXT")
+                        .HasColumnType("varchar(200)")
                         .HasColumnName("nombre");
 
                     b.Property<string>("Ruc")
                         .IsRequired()
                         .HasMaxLength(20)
-                        .HasColumnType("TEXT")
+                        .HasColumnType("varchar(20)")
                         .HasColumnName("ruc");
 
                     b.HasKey("Id");
@@ -163,28 +155,16 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
 
             modelBuilder.Entity("ContextoDev.TallerHexagonal.Warehouse.Agregados.OrdenCompraDetalle", b =>
                 {
-                    b.HasOne("ContextoDev.TallerHexagonal.Warehouse.Agregados.OrdenCompra", null)
+                    b.HasOne("ContextoDev.TallerHexagonal.Warehouse.Agregados.OrdenCompra", "OrdenCompra")
                         .WithMany("Detalles")
                         .HasForeignKey("OrdenCompraId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("ContextoDev.TallerHexagonal.Warehouse.Agregados.OrdenCompra", "OrdenCompra")
-                        .WithMany()
-                        .HasForeignKey("OrdenCompraId1")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ContextoDev.TallerHexagonal.Warehouse.Agregados.Producto", null)
+                    b.HasOne("ContextoDev.TallerHexagonal.Warehouse.Agregados.Producto", "Producto")
                         .WithMany()
                         .HasForeignKey("ProductoId")
                         .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("ContextoDev.TallerHexagonal.Warehouse.Agregados.Producto", "Producto")
-                        .WithMany()
-                        .HasForeignKey("ProductoId1")
-                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("OrdenCompra");
@@ -197,11 +177,11 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
                     b.OwnsOne("ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.Nombre", "Nombre", b1 =>
                         {
                             b1.Property<Guid>("ProductoId")
-                                .HasColumnType("TEXT");
+                                .HasColumnType("char(36)");
 
                             b1.Property<string>("Valor")
                                 .IsRequired()
-                                .HasColumnType("TEXT")
+                                .HasColumnType("longtext")
                                 .HasColumnName("Nombre");
 
                             b1.HasKey("ProductoId");
@@ -221,31 +201,31 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.Migration
                     b.OwnsOne("ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.Direccion", "Direccion", b1 =>
                         {
                             b1.Property<Guid>("ProveedorId")
-                                .HasColumnType("TEXT");
+                                .HasColumnType("char(36)");
 
                             b1.Property<string>("CallePrincipal")
                                 .HasMaxLength(200)
-                                .HasColumnType("TEXT")
+                                .HasColumnType("varchar(200)")
                                 .HasColumnName("direccion_calle_principal");
 
                             b1.Property<string>("CalleSecundaria")
                                 .HasMaxLength(200)
-                                .HasColumnType("TEXT")
+                                .HasColumnType("varchar(200)")
                                 .HasColumnName("direccion_calle_secundaria");
 
                             b1.Property<string>("Ciudad")
                                 .HasMaxLength(100)
-                                .HasColumnType("TEXT")
+                                .HasColumnType("varchar(100)")
                                 .HasColumnName("direccion_ciudad");
 
                             b1.Property<string>("Numero")
                                 .HasMaxLength(30)
-                                .HasColumnType("TEXT")
+                                .HasColumnType("varchar(30)")
                                 .HasColumnName("direccion_numero");
 
                             b1.Property<string>("Pais")
                                 .HasMaxLength(100)
-                                .HasColumnType("TEXT")
+                                .HasColumnType("varchar(100)")
                                 .HasColumnName("direccion_pais");
 
                             b1.HasKey("ProveedorId");

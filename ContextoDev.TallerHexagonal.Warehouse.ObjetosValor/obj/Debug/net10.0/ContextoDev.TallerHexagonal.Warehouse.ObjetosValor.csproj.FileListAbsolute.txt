@@ -9,3 +9,15 @@ D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\Contexto
 D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
 D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\ContextoDev.TallerHexagonal.Warehouse\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.deps.json
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.AssemblyInfoInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.AssemblyInfo.cs
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj.CoreCompileInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.sourcelink.json
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll

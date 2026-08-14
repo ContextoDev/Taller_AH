@@ -1,6 +1,7 @@
 using ContextoDev.TallerHexagonal.Warehouse.Agregados;
 using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config;
 using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo;
+using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql;
 using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio;
 using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Sqlite;
 using ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato;
@@ -17,7 +18,7 @@ builder.Services.AddScoped<IRepositorioProveedor, RepositorioProveedor>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<DbContext, ModeloWareHouse>();
 
-builder.Services.AddScoped<IEntityTypeConfiguration<Proveedor>, ProveedorSqliteConfiguration>();
+builder.Services.AddScoped<IEntityTypeConfiguration<Proveedor>, ProveedorMySqlConfiguration>();
 
 //builder.Services.AddDbContext<ModeloWareHouse>(options =>
 //    options.UseInMemoryDatabase("WareHouseDB", inMemoryOptions =>
@@ -25,8 +26,23 @@ builder.Services.AddScoped<IEntityTypeConfiguration<Proveedor>, ProveedorSqliteC
 //        inMemoryOptions.EnableNullChecks();
 //    }));
 
+//builder.Services.AddDbContext<ModeloWareHouse>(options =>
+//    options.UseSqlite("Data Source=WareHouse.db"));
+
+//builder.Services.AddDbContext<ModeloWareHouse>(options =>
+//    options.UseSqlServer(
+//        builder.Configuration.GetConnectionString("WareHouse")
+//    ));
+
+//builder.Services.AddDbContext<ModeloWareHouse>(options =>
+//    options.UseNpgsql(
+//        builder.Configuration.GetConnectionString("PostgreSQL")
+//    ));
+
 builder.Services.AddDbContext<ModeloWareHouse>(options =>
-    options.UseSqlite("Data Source=WareHouse.db"));
+    options.UseMySQL(
+        builder.Configuration.GetConnectionString("MySQL")
+    ));
 
 
 builder.Services.AddControllers();

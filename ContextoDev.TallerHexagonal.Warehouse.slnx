@@ -26,6 +26,9 @@
   <Folder Name="/Infraestructura/" />
   <Folder Name="/Infraestructura/Configuracion/">
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.csproj" Id="82479212-549e-4b4c-894e-27bdd53a1f91" />
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql.csproj" Id="0439870f-d2fa-4d55-8c9f-3e18d007bbb2" />
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Postgres/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Postgres.csproj" Id="af08c279-5fdd-4034-b234-2445efa6e727" />
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer.csproj" Id="70c644f3-a8d4-45c1-9605-f9ba60c154e2" />
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestrucvtura.Sqlite/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Sqlite.csproj" Id="a57dd234-574a-4585-976b-29cfd4dde926" />
   </Folder>
   <Folder Name="/Infraestructura/Modelo/">
