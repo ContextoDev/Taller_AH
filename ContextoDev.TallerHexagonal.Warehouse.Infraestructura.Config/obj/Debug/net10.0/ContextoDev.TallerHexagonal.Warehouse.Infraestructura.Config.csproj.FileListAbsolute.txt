@@ -33,3 +33,5 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.dll
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb

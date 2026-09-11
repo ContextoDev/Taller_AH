@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -49,3 +49,7 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia.dll
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.ServicioColombia\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb

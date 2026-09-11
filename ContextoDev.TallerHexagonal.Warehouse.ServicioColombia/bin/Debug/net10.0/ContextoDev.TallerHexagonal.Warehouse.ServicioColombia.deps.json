@@ -16,6 +16,7 @@
       },
       "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0"
         },
         "runtime": {
@@ -28,6 +29,14 @@
       "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/1.0.0": {
         "runtime": {
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -52,6 +61,17 @@
           }
         }
       },
+      "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/1.0.0": {
+        "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados": "1.0.0"
+        },
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ContextoDev.TallerHexagonal.Warehouse.ServicioContrato/1.0.0": {
         "dependencies": {
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto": "1.0.0",
@@ -70,6 +90,7 @@
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato": "1.0.0",
+          "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ServicioContrato": "1.0.0"
         },
         "runtime": {
@@ -97,12 +118,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

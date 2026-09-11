@@ -6,6 +6,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0"
         },
         "compile": {
@@ -23,6 +24,16 @@
         },
         "runtime": {
           "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll": {}
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {}
         }
       },
       "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
@@ -48,6 +59,19 @@
           "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.dll": {}
         }
       },
+      "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.dll": {}
+        }
+      },
       "ContextoDev.TallerHexagonal.Warehouse.ServicioContrato/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -70,6 +94,7 @@
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato": "1.0.0",
+          "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ServicioContrato": "1.0.0"
         },
         "compile": {
@@ -92,6 +117,11 @@
       "path": "../ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj",
       "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj"
     },
+    "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+      "type": "project",
+      "path": "../ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj",
+      "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj"
+    },
     "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
       "type": "project",
       "path": "../ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj",
@@ -101,6 +131,11 @@
       "type": "project",
       "path": "../ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj",
       "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj"
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/1.0.0": {
+      "type": "project",
+      "path": "../ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.csproj",
+      "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.csproj"
     },
     "ContextoDev.TallerHexagonal.Warehouse.ServicioContrato/1.0.0": {
       "type": "project",

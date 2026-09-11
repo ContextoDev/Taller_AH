@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.5.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.10">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -14,16 +15,21 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="10.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="10.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.10" />
+    <PackageReference Include="MongoDB.Driver" Version="3.11.0" />
     <PackageReference Include="MySql.EntityFrameworkCore" Version="10.0.9" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.3" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Postgres\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Postgres.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestrucvtura.Sqlite\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Sqlite.csproj" />

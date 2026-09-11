@@ -6,6 +6,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0"
         },
         "compile": {
@@ -13,6 +14,16 @@
         },
         "runtime": {
           "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Agregados.dll": {}
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {}
         }
       },
       "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
@@ -32,6 +43,11 @@
       "type": "project",
       "path": "../ContextoDev.TallerHexagonal.Warehouse.Agregados/ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj",
       "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.Agregados/ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj"
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+      "type": "project",
+      "path": "../ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj",
+      "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj"
     },
     "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
       "type": "project",

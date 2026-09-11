@@ -43,6 +43,22 @@
   },
   {
     "ContainingType": "ContextoDev.TallerHexagonal.Warehose.Api.Controllers.ProveedorController",
+    "Method": "GetCQRS",
+    "RelativePath": "Proveedor/ObtenerProveedorCQRS/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContextoDev.TallerHexagonal.Warehose.Api.Controllers.ProveedorController",
     "Method": "Get",
     "RelativePath": "Proveedor/ObtenerProveedores",
     "HttpMethod": "GET",
@@ -60,5 +76,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "ContextoDev.TallerHexagonal.Warehose.Api.Controllers.ProveedorController",
+    "Method": "PostRegistrar",
+    "RelativePath": "Proveedor/RegistrarProveedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proveedorDto",
+        "Type": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.ProveedorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

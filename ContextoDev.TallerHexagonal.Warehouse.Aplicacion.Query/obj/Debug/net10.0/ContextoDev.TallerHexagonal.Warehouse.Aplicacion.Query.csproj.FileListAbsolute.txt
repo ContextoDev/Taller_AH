@@ -1,0 +1,16 @@
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.deps.json
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.csproj.AssemblyReference.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.AssemblyInfoInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.AssemblyInfo.cs
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.csproj.CoreCompileInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.sourcelink.json
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\Contexto.9453C776.Up2Date
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.dll

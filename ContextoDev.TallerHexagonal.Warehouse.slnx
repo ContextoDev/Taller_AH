@@ -3,8 +3,26 @@
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Api/ContextoDev.TallerHexagonal.Warehouse.Api.csproj" />
   </Folder>
   <Folder Name="/Aplicacion/" />
+  <Folder Name="/Aplicacion/Command/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.csproj" Id="d4afc2f5-d5b1-4856-bc9c-6499d7809f81" />
+  </Folder>
+  <Folder Name="/Aplicacion/CommandHandler/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj" Id="51f76b55-eb95-48a5-aaa2-d143720aee59" />
+  </Folder>
   <Folder Name="/Aplicacion/Dto/">
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj" Id="1bac2167-6daa-440a-846e-dcb0f986807a" />
+  </Folder>
+  <Folder Name="/Aplicacion/Notificacion/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.csproj" Id="b0420349-fe4e-4bdc-85dd-a53c630f5372" />
+  </Folder>
+  <Folder Name="/Aplicacion/NotificacionHandler/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.csproj" Id="b6e5af42-5ec8-4284-af35-d89ee1403679" />
+  </Folder>
+  <Folder Name="/Aplicacion/Query/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.csproj" Id="163ef277-3c19-47eb-a790-94594490bd81" />
+  </Folder>
+  <Folder Name="/Aplicacion/QueryHandler/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler/ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler.csproj" Id="69b7800b-dc84-489a-a8d6-5d972abd3081" />
   </Folder>
   <Folder Name="/Aplicacion/Servicio/">
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.ServicioColombia/ContextoDev.TallerHexagonal.Warehouse.ServicioColombia.csproj" Id="55874474-edee-43fe-aa85-3d889131ac40" />
@@ -17,11 +35,15 @@
   <Folder Name="/Dominio/Agregados/">
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Agregados/ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj" />
   </Folder>
+  <Folder Name="/Dominio/Eventos/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj" Id="d293c256-8ed0-4ca0-a6c6-deac7bf0b815" />
+  </Folder>
   <Folder Name="/Dominio/ObjetosValor/">
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj" />
   </Folder>
   <Folder Name="/Dominio/RepositorioContrato/">
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj" Id="d12500c7-8f21-4f1f-b6c4-95e022365748" />
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato/ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.csproj" Id="d879b895-b752-4eb4-8ef9-823be65bb7fe" />
   </Folder>
   <Folder Name="/Infraestructura/" />
   <Folder Name="/Infraestructura/Configuracion/">
@@ -35,6 +57,7 @@
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj" Id="69dc349a-98ca-46fc-9806-faa20873a9b0" />
   </Folder>
   <Folder Name="/Infraestructura/Repositorio/">
+    <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.csproj" Id="51a18995-12d5-481d-af68-d64d9a4d75a6" />
     <Project Path="ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio/ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj" Id="dbe73509-523a-4bce-9e32-86587ead42a2" />
   </Folder>
 </Solution>

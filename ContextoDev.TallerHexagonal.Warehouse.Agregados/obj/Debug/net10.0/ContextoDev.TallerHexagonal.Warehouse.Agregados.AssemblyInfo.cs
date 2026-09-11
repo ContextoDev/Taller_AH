@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContextoDev.TallerHexagonal.Warehouse.Agregados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7c06e63db1fde255086d305e0042a0163dcf6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d375a1ee63e0abd1825b4f030622ea808ed824b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContextoDev.TallerHexagonal.Warehouse.Agregados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContextoDev.TallerHexagonal.Warehouse.Agregados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

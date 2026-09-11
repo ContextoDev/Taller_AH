@@ -7,10 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.5.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.9" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Agregados\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato\ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj" />
   </ItemGroup>
 

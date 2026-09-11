@@ -37,12 +37,9 @@ namespace ContextoDev.TallerHexagonal.Warehouse.ServicioColombia
         {
             RUC rUC = RUC.Crear(proveedorDto.ruc);
             Direccion direccion = Direccion.Crear(proveedorDto.callePrincipal,proveedorDto.calleSecundaria,proveedorDto.numero,proveedorDto.ciudad,proveedorDto.pais);
-            Nombre nombre = Nombre.Crear("KIWI");
+            Nombre nombre = Nombre.Crear(proveedorDto.nombre);
             Proveedor proveedor = Proveedor.Crear(rUC, direccion, nombre);
             return proveedorDto;
-
-
-
         }
     }
 }

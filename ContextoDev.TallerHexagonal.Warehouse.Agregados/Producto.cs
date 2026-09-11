@@ -5,7 +5,6 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Agregados
 {
     public partial class Producto : AgregadoRoot
     {
-
         public Codigo Codigo { get; private set; }
 
         public Nombre Nombre { get; private set; }

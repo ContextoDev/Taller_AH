@@ -1,0 +1,16 @@
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.deps.json
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.AssemblyInfoInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.AssemblyInfo.cs
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.csproj.CoreCompileInputs.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.sourcelink.json
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.csproj.AssemblyReference.cache
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\obj\Debug\net10.0\Contexto.F446E10C.Up2Date

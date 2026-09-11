@@ -18,3 +18,5 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer.genruntimeconfig.cache
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.SqlServer\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb

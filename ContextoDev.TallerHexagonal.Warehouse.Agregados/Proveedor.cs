@@ -1,4 +1,5 @@
-﻿using ContextoDev.TallerHexagonal.Warehouse.ObjetosValor;
+﻿using ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos;
+using ContextoDev.TallerHexagonal.Warehouse.ObjetosValor;
 
 namespace ContextoDev.TallerHexagonal.Warehouse.Agregados
 {
@@ -23,7 +24,8 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Agregados
 
         public static Proveedor Crear(RUC ruc, Direccion direccion, Nombre nombre)
         {
-            return new Proveedor(ruc, direccion, nombre);
+            Proveedor proveedor = new Proveedor(ruc, direccion, nombre);
+            return proveedor;
         }
 
         public void CambiarRuc(RUC ruc)

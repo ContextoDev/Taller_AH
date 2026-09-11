@@ -16,10 +16,6 @@
 
         public static Tipo Crear(string valor)
         {
-            if (string.IsNullOrWhiteSpace(valor))
-            {
-                throw new ArgumentException("El valor no puede ser nulo o vacío.", nameof(valor));
-            }
             return new Tipo(valor);
         }
     }

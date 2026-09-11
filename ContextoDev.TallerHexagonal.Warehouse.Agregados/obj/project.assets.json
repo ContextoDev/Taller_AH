@@ -2,6 +2,16 @@
   "version": 4,
   "targets": {
     "net10.0": {
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {}
+        }
+      },
       "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+      "type": "project",
+      "path": "../ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj",
+      "msbuildProject": "../ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj"
+    },
     "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
       "type": "project",
       "path": "../ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos >= 1.0.0",
       "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor >= 1.0.0"
     ]
   },
@@ -60,6 +76,9 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
+            "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos\\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj": {
+              "projectPath": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos\\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.csproj"
+            },
             "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj": {
               "projectPath": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor\\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.csproj"
             }

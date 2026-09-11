@@ -18,3 +18,5 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql.genruntimeconfig.cache
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.MySql\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb

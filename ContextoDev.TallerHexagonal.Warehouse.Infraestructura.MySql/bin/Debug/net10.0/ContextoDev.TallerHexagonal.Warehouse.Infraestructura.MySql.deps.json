@@ -750,10 +750,19 @@
       },
       "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0"
         },
         "runtime": {
           "ContextoDev.TallerHexagonal.Warehouse.Agregados.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1084,6 +1093,11 @@
       "hashPath": "zstdsharp.port.0.8.8.nupkg.sha512"
     },
     "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

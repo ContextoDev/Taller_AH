@@ -2,6 +2,7 @@
 using ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto;
 using ContextoDev.TallerHexagonal.Warehouse.ObjetosValor;
 using ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato;
+using ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato;
 using ContextoDev.TallerHexagonal.Warehouse.ServicioContrato;
 
 namespace ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador
@@ -10,10 +11,19 @@ namespace ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador
     {
         IRepositorioProveedor _repositorioProveedor;
         IUnitOfWork _unitOfWork;
-        public ServicioConsultaProveedorEcuador(IRepositorioProveedor repositorioProveedor, IUnitOfWork unitOfWork)
+
+
+        IRepositorioProveedorMongo _repositorioProveedorMongo;
+        IUnitOfWorkMongo _unitOfWorkMongo;
+
+
+        public ServicioConsultaProveedorEcuador(IRepositorioProveedor repositorioProveedor,IUnitOfWork unitOfWork ,IRepositorioProveedorMongo repositorioProveedorMongo, IUnitOfWorkMongo unitOfWorkMongo)
         {
             _repositorioProveedor = repositorioProveedor;
             _unitOfWork = unitOfWork;
+
+            _repositorioProveedorMongo = repositorioProveedorMongo;
+            _unitOfWorkMongo = unitOfWorkMongo;
         }
 
         public List<ProveedorDto> ConsultarProveedores()
@@ -38,6 +48,10 @@ namespace ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador
             Proveedor proveedor = Proveedor.Crear(RUC.Crear(proveedorDto.ruc), Direccion.Crear(proveedorDto.callePrincipal, proveedorDto.calleSecundaria, proveedorDto.numero, proveedorDto.ciudad, proveedorDto.pais), Nombre.Crear(proveedorDto.nombre));
             _repositorioProveedor.Guardar(proveedor);
             _unitOfWork.SaveChanges();
+
+            _repositorioProveedorMongo.Guardar(proveedor);
+            //_unitOfWorkMongo.SaveChanges();
+
             proveedorDto.id = proveedor.Id;
             return proveedorDto;    
         }
