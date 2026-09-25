@@ -16,3 +16,9 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.csproj.AssemblyReference.cache
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\obj\Debug\net10.0\Contexto.95BCFDC8.Up2Date
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Agregados.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Agregados.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.pdb

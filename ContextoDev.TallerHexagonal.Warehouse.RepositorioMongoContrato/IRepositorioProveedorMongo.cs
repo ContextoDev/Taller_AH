@@ -4,10 +4,10 @@ namespace ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato
 {
     public interface IRepositorioProveedorMongo
     {
-        IQueryable<Proveedor> Todos();
-        Proveedor Buscar(Guid id);
+        IQueryable<ProveedorLectura> Todos();
+        ProveedorLectura Buscar(Guid id);
 
-        void Guardar(Proveedor proveedor);
+        void Guardar(ProveedorLectura proveedor);
 
     }
 }

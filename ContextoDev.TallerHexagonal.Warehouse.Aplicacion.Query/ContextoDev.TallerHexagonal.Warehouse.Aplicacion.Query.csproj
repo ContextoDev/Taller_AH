@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Agregados\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj" />
   </ItemGroup>
 

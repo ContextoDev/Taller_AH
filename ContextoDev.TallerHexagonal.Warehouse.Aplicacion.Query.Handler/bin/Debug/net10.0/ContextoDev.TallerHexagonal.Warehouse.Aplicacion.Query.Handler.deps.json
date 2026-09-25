@@ -66,6 +66,7 @@
       },
       "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query/1.0.0": {
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto": "1.0.0",
           "MediatR": "12.5.0"
         },

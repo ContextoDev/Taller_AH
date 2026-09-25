@@ -1,4 +1,5 @@
 ﻿using ContextoDev.TallerHexagonal.Warehouse.Agregados;
+using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo;
 using ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato;
 
 using Microsoft.EntityFrameworkCore;
@@ -8,25 +9,25 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mong
     public class RepositorioProveedorMongo : IRepositorioProveedorMongo
     {
 
-        DbContext _dbContext;
-        DbSet<Proveedor> _dbSet;
+        DbContextMongo _dbContext;
+        DbSet<ProveedorLectura> _dbSet;
 
-        public RepositorioProveedorMongo(DbContext dbContext) 
+        public RepositorioProveedorMongo(DbContextMongo dbContext) 
         {
             _dbContext = dbContext;
-            _dbSet = _dbContext.Set<Proveedor>();
+            _dbSet = _dbContext.Set<ProveedorLectura>();
         }
-        public IQueryable<Proveedor> Todos()
+        public IQueryable<ProveedorLectura> Todos()
         {
             return _dbSet;
         }
 
-        public Proveedor Buscar(Guid id)
+        public ProveedorLectura Buscar(Guid id)
         {
             return _dbSet.Find(id);
         }
 
-        public void Guardar(Proveedor proveedor)
+        public void Guardar(ProveedorLectura proveedor)
         {
             _dbSet.Add(proveedor);
         }

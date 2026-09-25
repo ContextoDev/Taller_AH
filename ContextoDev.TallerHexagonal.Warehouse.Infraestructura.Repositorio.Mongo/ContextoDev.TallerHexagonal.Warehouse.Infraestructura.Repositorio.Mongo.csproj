@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato\ContextoDev.TallerHexagonal.Warehouse.RepositorioContrato.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.csproj" />
   </ItemGroup>

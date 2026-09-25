@@ -14,17 +14,10 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler
         IRepositorioProveedor _repositorioProveedor;
         IUnitOfWork _unitOfWork;
 
-
-        IRepositorioProveedorMongo _repositorioProveedorMongo;
-        IUnitOfWorkMongo _unitOfWorkMongo;
-
-        public RegistrarProveedorCommandHandler(IRepositorioProveedor repositorioProveedor, IUnitOfWork unitOfWork, IRepositorioProveedorMongo repositorioProveedorMongo, IUnitOfWorkMongo unitOfWorkMongo)
+        public RegistrarProveedorCommandHandler(IRepositorioProveedor repositorioProveedor, IUnitOfWork unitOfWork)
         {
             _repositorioProveedor = repositorioProveedor;
             _unitOfWork = unitOfWork;
-
-            _repositorioProveedorMongo = repositorioProveedorMongo;
-            _unitOfWorkMongo = unitOfWorkMongo;
         }
 
         public async Task<Guid> Handle(RegistrarProveedorCommand request, CancellationToken cancellationToken)
@@ -34,14 +27,11 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler
 
             proveedor.AddDomainEvent(new ProveedorRegistradoDomainEvent(
                     proveedor.Id,
-                    DateTime.UtcNow));
+                    DateTime.UtcNow,
+                    request.Ruc,
+                    request.Nombre));
 
             _unitOfWork.SaveChanges();
-
-            
-
-            //_repositorioProveedorMongo.Guardar(proveedor);
-            //_unitOfWorkMongo.SaveChanges();
 
             return proveedor.Id;
         }

@@ -21,16 +21,17 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio
         {
             try
             {
-                DispatchDomainEventsAsync();
-                return _dbContext.SaveChanges();
+                int result = _dbContext.SaveChanges();
+                if (result > 0)
+                {
+                    DispatchDomainEventsAsync();
+                }
+                return result;
             }
             catch (Exception ex)
             {
-
                 throw;
             }
-
-
         }
         private void DispatchDomainEventsAsync()
         {

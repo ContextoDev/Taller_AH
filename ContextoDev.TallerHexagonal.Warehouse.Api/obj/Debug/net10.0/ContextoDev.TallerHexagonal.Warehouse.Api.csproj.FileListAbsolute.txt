@@ -439,3 +439,5 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Api\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Api\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.dll
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Api\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Api\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Api\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.pdb

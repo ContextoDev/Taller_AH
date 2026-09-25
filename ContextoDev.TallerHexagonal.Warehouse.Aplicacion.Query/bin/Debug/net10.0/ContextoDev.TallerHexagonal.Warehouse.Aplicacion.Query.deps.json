@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query/1.0.0": {
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto": "1.0.0",
           "MediatR": "12.5.0"
         },
@@ -43,9 +44,37 @@
           }
         }
       },
+      "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
+        "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos": "1.0.0",
+          "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor": "1.0.0"
+        },
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/1.0.0": {
         "runtime": {
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
+        "runtime": {
+          "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -80,7 +109,22 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
     },
+    "ContextoDev.TallerHexagonal.Warehouse.Agregados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextoDev.TallerHexagonal.Warehouse.ObjetosValor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

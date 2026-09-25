@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70914539-1287-7724-F9E1-68F06C09F812}|ContextoDev.TallerHexagonal.Warehouse.Agregados\\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.agregados\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70914539-1287-7724-F9E1-68F06C09F812}|ContextoDev.TallerHexagonal.Warehouse.Agregados\\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.agregados\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51F76B55-EB95-48A5-AAA2-D143720AEE59}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.command.handler\\registrarproveedorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F76B55-EB95-48A5-AAA2-D143720AEE59}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.command.handler\\registrarproveedorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBE73509-523A-4BCE-9E32-86587EAD42A2}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.repositorio\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE73509-523A-4BCE-9E32-86587EAD42A2}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.repositorio\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4AFC2F5-D5B1-4856-BC9C-6499D7809F81}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.command\\registrarproveedorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AFC2F5-D5B1-4856-BC9C-6499D7809F81}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.command\\registrarproveedorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0420349-FE4E-4BDC-85DD-A53C630F5372}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.notification\\proveedorregistradodomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0420349-FE4E-4BDC-85DD-A53C630F5372}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.notification\\proveedorregistradodomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A3CB4541-4B15-3AB7-14DF-5F5614F01753}|ContextoDev.TallerHexagonal.Warehouse.Api\\ContextoDev.TallerHexagonal.Warehouse.Api.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.api\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CB4541-4B15-3AB7-14DF-5F5614F01753}|ContextoDev.TallerHexagonal.Warehouse.Api\\ContextoDev.TallerHexagonal.Warehouse.Api.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.api\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6E5AF42-5EC8-4284-AF35-D89EE1403679}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.notification.handler\\proveedorcreadonotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6E5AF42-5EC8-4284-AF35-D89EE1403679}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.notification.handler\\proveedorcreadonotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE73509-523A-4BCE-9E32-86587EAD42A2}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.repositorio\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE73509-523A-4BCE-9E32-86587EAD42A2}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.repositorio\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F76B55-EB95-48A5-AAA2-D143720AEE59}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.command.handler\\registrarproveedorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F76B55-EB95-48A5-AAA2-D143720AEE59}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.command.handler\\registrarproveedorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAC2167-6DAA-440A-846E-DCB0F986807A}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAC2167-6DAA-440A-846E-DCB0F986807A}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A18995-12D5-481D-AF68-D64D9A4D75A6}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.repositorio.mongo\\repositorioproveedormongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A18995-12D5-481D-AF68-D64D9A4D75A6}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.repositorio.mongo\\repositorioproveedormongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B7800B-DC84-489A-A8D6-5D972ABD3081}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.query.handler\\buscarporidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B7800B-DC84-489A-A8D6-5D972ABD3081}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.query.handler\\buscarporidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CB4541-4B15-3AB7-14DF-5F5614F01753}|ContextoDev.TallerHexagonal.Warehouse.Api\\ContextoDev.TallerHexagonal.Warehouse.Api.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CB4541-4B15-3AB7-14DF-5F5614F01753}|ContextoDev.TallerHexagonal.Warehouse.Api\\ContextoDev.TallerHexagonal.Warehouse.Api.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A18995-12D5-481D-AF68-D64D9A4D75A6}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.repositorio.mongo\\unitofworkmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A18995-12D5-481D-AF68-D64D9A4D75A6}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.repositorio.mongo\\unitofworkmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DC349A-98CA-46FC-9806-FAA20873A9B0}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.modelo\\mongomodelowarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DC349A-98CA-46FC-9806-FAA20873A9B0}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.modelo\\mongomodelowarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DC349A-98CA-46FC-9806-FAA20873A9B0}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.modelo\\modelowarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DC349A-98CA-46FC-9806-FAA20873A9B0}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.modelo\\modelowarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE73509-523A-4BCE-9E32-86587EAD42A2}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.infraestructura.repositorio\\repositorioproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE73509-523A-4BCE-9E32-86587EAD42A2}|ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.infraestructura.repositorio\\repositorioproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163EF277-3C19-47EB-A790-94594490BD81}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.aplicacion.query\\buscarporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163EF277-3C19-47EB-A790-94594490BD81}|ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.aplicacion.query\\buscarporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70914539-1287-7724-F9E1-68F06C09F812}|ContextoDev.TallerHexagonal.Warehouse.Agregados\\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj|d:\\arquitectura\\taller\\taller_hex\\taller_ah\\contextodev.tallerhexagonal.warehouse.agregados\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70914539-1287-7724-F9E1-68F06C09F812}|ContextoDev.TallerHexagonal.Warehouse.Agregados\\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj|solutionrelative:contextodev.tallerhexagonal.warehouse.agregados\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,25 +95,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
-              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
-              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Api\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Api\\Controllers\\ProveedorController.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Api\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Api\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T01:41:00.967Z",
+              "WhenOpened": "2026-09-11T02:08:52.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RegistrarProveedorCommandHandler.cs",
               "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\RegistrarProveedorCommandHandler.cs",
               "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\RegistrarProveedorCommandHandler.cs",
               "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\RegistrarProveedorCommandHandler.cs",
               "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\\RegistrarProveedorCommandHandler.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T01:39:51.361Z",
               "EditorCaption": ""
@@ -77,40 +121,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProveedorRegistradoDomainEvent.cs",
-              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
-              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
-              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
-              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T01:37:18.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProveedorCreadoNotificationHandler.cs",
               "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\\ProveedorCreadoNotificationHandler.cs",
               "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\\ProveedorCreadoNotificationHandler.cs",
               "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\\ProveedorCreadoNotificationHandler.cs",
               "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\\ProveedorCreadoNotificationHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T01:37:16.623Z",
+              "WhenOpened": "2026-09-11T02:12:11.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\UnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:24:19.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProveedorDto.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ProveedorDto.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ProveedorDto.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ProveedorDto.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ProveedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:43:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuscarPorIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\\BuscarPorIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\\BuscarPorIdQueryHandler.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\\BuscarPorIdQueryHandler.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\\BuscarPorIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:17:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositorioProveedorMongo.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\RepositorioProveedorMongo.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\RepositorioProveedorMongo.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\RepositorioProveedorMongo.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\RepositorioProveedorMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:48:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:08:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProveedorRegistradoDomainEvent.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\\ProveedorRegistradoDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:10:12.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistrarProveedorCommand.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\\RegistrarProveedorCommand.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\\RegistrarProveedorCommand.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\\RegistrarProveedorCommand.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\\RegistrarProveedorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:01:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWorkMongo.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\UnitOfWorkMongo.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\UnitOfWorkMongo.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\UnitOfWorkMongo.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\\UnitOfWorkMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:58:10.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositorioProveedor.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\RepositorioProveedor.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\RepositorioProveedor.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\RepositorioProveedor.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio\\RepositorioProveedor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:56:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuscarPorIdQuery.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\\BuscarPorIdQuery.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\\BuscarPorIdQuery.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\\BuscarPorIdQuery.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\\BuscarPorIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:01:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoModeloWarehouse.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\MongoModeloWarehouse.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\MongoModeloWarehouse.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\MongoModeloWarehouse.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\MongoModeloWarehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:56:21.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModeloWarehouse.cs",
+              "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\\ModeloWarehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:38:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Agregados\\Proveedor.cs",
               "RelativeDocumentMoniker": "ContextoDev.TallerHexagonal.Warehouse.Agregados\\Proveedor.cs",
               "ToolTip": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Agregados\\Proveedor.cs",
               "RelativeToolTip": "ContextoDev.TallerHexagonal.Warehouse.Agregados\\Proveedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T01:37:02.91Z",
+              "WhenOpened": "2026-09-25T01:37:10.463Z",
               "EditorCaption": ""
             }
           ]

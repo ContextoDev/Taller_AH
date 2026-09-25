@@ -22,3 +22,7 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo.dll
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio.Mongo\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.pdb

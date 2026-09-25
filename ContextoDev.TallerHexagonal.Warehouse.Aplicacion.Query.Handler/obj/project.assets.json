@@ -76,6 +76,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "ContextoDev.TallerHexagonal.Warehouse.Agregados": "1.0.0",
           "ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto": "1.0.0",
           "MediatR": "12.5.0"
         },

@@ -27,7 +27,15 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Repositorio
 
         public void Guardar(Proveedor proveedor)
         {
-            _dbSet.Add(proveedor);
+            try
+            {
+                _dbSet.Add(proveedor);
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
         }
     }
 }

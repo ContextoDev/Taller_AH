@@ -1080,6 +1080,9 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
+              "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Agregados\\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj": {
+                "projectPath": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Agregados\\ContextoDev.TallerHexagonal.Warehouse.Agregados.csproj"
+              },
               "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj": {
                 "projectPath": "D:\\Arquitectura\\TALLER\\TALLER_HEX\\Taller_AH\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj"
               }

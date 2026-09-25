@@ -14,3 +14,9 @@ D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehous
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\refint\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.dll
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.pdb
 D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\obj\Debug\net10.0\ref\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Agregados.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.dll
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Agregados.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.Dominio.Eventos.pdb
+D:\Arquitectura\TALLER\TALLER_HEX\Taller_AH\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query\bin\Debug\net10.0\ContextoDev.TallerHexagonal.Warehouse.ObjetosValor.pdb

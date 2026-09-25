@@ -5,12 +5,9 @@ using MongoDB.EntityFrameworkCore.Extensions;
 
 namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo
 {
-    public class MongoModeloWareHouse : DbContext
+    public class MongoModeloWareHouse : DbContextMongo
     {
-        public DbSet<Proveedor> Proveedores { get; set; }
-        public DbSet<Producto> Producto { get; set; }
-        public DbSet<OrdenCompra> OrdenCompra { get; set; }
-        public DbSet<OrdenCompraDetalle> OrdenCompraDetalle { get; set; }
+        public DbSet<ProveedorLectura> Proveedores { get; set; }
 
 
         public MongoModeloWareHouse(DbContextOptions<MongoModeloWareHouse> options)
@@ -21,12 +18,12 @@ namespace ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Proveedor>()
+            modelBuilder.Entity<ProveedorLectura>()
             .ToCollection("proveedores");
 
 
-            modelBuilder.Entity<Producto>()
-            .ToCollection("productos");
+            //modelBuilder.Entity<Producto>()
+            //.ToCollection("productos");
 
             base.OnModelCreating(modelBuilder);
         }

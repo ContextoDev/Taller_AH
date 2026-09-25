@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato\ContextoDev.TallerHexagonal.Warehouse.RepositorioMongoContrato.csproj" />
   </ItemGroup>
 
 </Project>

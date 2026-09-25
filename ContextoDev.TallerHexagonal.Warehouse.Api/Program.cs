@@ -1,5 +1,6 @@
 using ContextoDev.TallerHexagonal.Warehouse.Agregados;
 using ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler;
+using ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler;
 using ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler;
 using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config;
 using ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo;
@@ -26,12 +27,13 @@ builder.Services.AddMediatR(cfg =>
 {
     cfg.RegisterServicesFromAssemblyContaining<RegistrarProveedorCommandHandler>();
     cfg.RegisterServicesFromAssemblyContaining<BuscarPorIdQueryHandler>();
+    cfg.RegisterServicesFromAssemblyContaining<ProveedorCreadoNotificationHandler>();
 });
 
 
 builder.Services.AddScoped<IRepositorioProveedorMongo, RepositorioProveedorMongo>();
 builder.Services.AddScoped<IUnitOfWorkMongo, UnitOfWorkMongo>();
-builder.Services.AddScoped<DbContext, MongoModeloWareHouse>();
+builder.Services.AddScoped<DbContextMongo, MongoModeloWareHouse>();
 
 builder.Services.AddScoped<IEntityTypeConfiguration<Proveedor>, ProveedorMySqlConfiguration>();
 

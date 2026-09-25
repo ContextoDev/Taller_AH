@@ -12,12 +12,11 @@ namespace ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador
         IRepositorioProveedor _repositorioProveedor;
         IUnitOfWork _unitOfWork;
 
-
         IRepositorioProveedorMongo _repositorioProveedorMongo;
         IUnitOfWorkMongo _unitOfWorkMongo;
 
 
-        public ServicioConsultaProveedorEcuador(IRepositorioProveedor repositorioProveedor,IUnitOfWork unitOfWork ,IRepositorioProveedorMongo repositorioProveedorMongo, IUnitOfWorkMongo unitOfWorkMongo)
+        public ServicioConsultaProveedorEcuador(IRepositorioProveedor repositorioProveedor,IUnitOfWork unitOfWork,IRepositorioProveedorMongo repositorioProveedorMongo, IUnitOfWorkMongo unitOfWorkMongo)
         {
             _repositorioProveedor = repositorioProveedor;
             _unitOfWork = unitOfWork;
@@ -49,7 +48,7 @@ namespace ContextoDev.TallerHexagonal.Warehouse.ServicioEcuador
             _repositorioProveedor.Guardar(proveedor);
             _unitOfWork.SaveChanges();
 
-            _repositorioProveedorMongo.Guardar(proveedor);
+            //_repositorioProveedorMongo.Guardar(proveedor);
             //_unitOfWorkMongo.SaveChanges();
 
             proveedorDto.id = proveedor.Id;

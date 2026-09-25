@@ -24,6 +24,7 @@
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.Handler.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Command.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Dto.csproj" />
+    <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Notification.Handler.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler\ContextoDev.TallerHexagonal.Warehouse.Aplicacion.Query.Handler.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Config.csproj" />
     <ProjectReference Include="..\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo\ContextoDev.TallerHexagonal.Warehouse.Infraestructura.Modelo.csproj" />
